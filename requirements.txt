@@ -5,7 +5,7 @@ ipysankeywidget==0.3.0
 jupyter==1.0.0
 matplotlib==3.2.1
 nltk==3.5
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.4
 pathlib==1.0.1
 pillow==8.1.1
