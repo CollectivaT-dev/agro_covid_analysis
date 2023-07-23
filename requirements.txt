@@ -4,7 +4,7 @@ geopy==2.0.0
 ipysankeywidget==0.3.0
 jupyter==1.0.0
 matplotlib==3.2.1
-nltk==3.5
+nltk==3.6.6
 numpy==1.18.4
 pandas==1.0.4
 pathlib==1.0.1
